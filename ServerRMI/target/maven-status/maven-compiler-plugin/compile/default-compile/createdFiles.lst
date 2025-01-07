@@ -1,0 +1,3 @@
+shared\IHelloService.class
+com\mycompany\serverrmi\HelloServiceImplement.class
+com\mycompany\serverrmi\ServerRMI.class
